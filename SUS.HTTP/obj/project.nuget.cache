@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+xyQJdSN0NO7u6kOmypTnUZpMuYx1yLN238ncGw59uFOiHoyuxYOEGzuK1NX0iqtLOsOU6oEj8zAZq9ga2xHYQ==",
+  "success": true,
+  "projectFilePath": "C:\\DISK D\\SOFTUNI\\WEB\\VSRepos\\ExamPrep\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\radto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\radto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

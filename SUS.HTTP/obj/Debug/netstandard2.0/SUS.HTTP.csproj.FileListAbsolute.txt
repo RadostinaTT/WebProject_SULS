@@ -1,0 +1,9 @@
+C:\DISK D\SOFTUNI\WEB\VSRepos\ExamPrep\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+C:\DISK D\SOFTUNI\WEB\VSRepos\ExamPrep\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\DISK D\SOFTUNI\WEB\VSRepos\ExamPrep\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\DISK D\SOFTUNI\WEB\VSRepos\ExamPrep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
+C:\DISK D\SOFTUNI\WEB\VSRepos\ExamPrep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+C:\DISK D\SOFTUNI\WEB\VSRepos\ExamPrep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+C:\DISK D\SOFTUNI\WEB\VSRepos\ExamPrep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+C:\DISK D\SOFTUNI\WEB\VSRepos\ExamPrep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+C:\DISK D\SOFTUNI\WEB\VSRepos\ExamPrep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb
